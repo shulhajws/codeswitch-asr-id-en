@@ -1,28 +1,32 @@
 Creative Commons Attribution 4.0 International (CC BY 4.0)
 
-Copyright (c) 2026 Shulha — Institut Teknologi Bandung
+Copyright (c) 2026 Shulha - Institut Teknologi Bandung
 
-Data, transkripsi, dan dokumentasi dalam repositori ini dilisensikan di bawah
-Creative Commons Attribution 4.0 International License.
+================================================================================
+BAHASA INDONESIA
+================================================================================
+
+Data, transkripsi, anotasi, statistik, dan dokumentasi dalam repositori ini
+dilisensikan di bawah Creative Commons Attribution 4.0 International License.
 
 Anda bebas untuk:
-  - Berbagi   : menyalin dan menyebarluaskan kembali materi ini dalam bentuk
-                atau format apapun.
-  - Adaptasi  : menggubah, mengubah, dan membuat turunan dari materi ini untuk
-                kepentingan apapun, termasuk kepentingan komersial.
+  - Berbagi  : menyalin dan menyebarluaskan kembali materi ini dalam bentuk
+               atau format apa pun.
+  - Adaptasi : menggubah, mengubah, dan membuat turunan dari materi ini untuk
+               kepentingan apa pun, termasuk kepentingan komersial.
 
 Dengan ketentuan:
-  - Atribusi  : Anda harus mencantumkan kredit yang sesuai, memberikan tautan
-                ke lisensi, dan menyatakan bila ada perubahan yang dilakukan.
+  - Atribusi : Anda harus mencantumkan kredit yang sesuai, memberikan tautan
+               ke lisensi, dan menyatakan bila ada perubahan yang dilakukan.
+               Anda dapat melakukannya dengan cara yang wajar, tetapi tidak
+               dengan cara yang menyiratkan bahwa pemberi lisensi mendukung
+               Anda atau penggunaan Anda.
 
-Teks lisensi selengkapnya tersedia pada:
+Teks lisensi selengkapnya:
 https://creativecommons.org/licenses/by/4.0/legalcode.id
 
---------------------------------------------------------------------------
-PENGECUALIAN — KONTEN PIHAK KETIGA
-
-Lisensi di atas berlaku untuk data teks, transkripsi, anotasi, statistik, dan
-dokumentasi yang disusun dalam penelitian ini.
+--------------------------------------------------------------------------------
+PENGECUALIAN - KONTEN PIHAK KETIGA
 
 Lisensi di atas TIDAK berlaku untuk konten audio dan video yang dirujuk oleh
 berkas manifest dalam repositori ini. Berkas manifest hanya memuat tautan,
@@ -31,4 +35,38 @@ dimiliki oleh pemilik kanal masing-masing. Repositori ini tidak
 mendistribusikan ulang konten audio maupun video tersebut.
 
 Pengguna yang merekonstruksi data audio dari manifest bertanggung jawab untuk
-mematuhi Ketentuan Layanan YouTube dan ketentuan hak cipta yang berlaku.
+mematuhi Ketentuan Layanan YouTube serta ketentuan hak cipta yang berlaku.
+
+================================================================================
+ENGLISH
+================================================================================
+
+The data, transcriptions, annotations, statistics, and documentation in this
+repository are licensed under the Creative Commons Attribution 4.0
+International License.
+
+You are free to:
+  - Share   : copy and redistribute the material in any medium or format.
+  - Adapt   : remix, transform, and build upon the material for any purpose,
+              even commercially.
+
+Under the following terms:
+  - Attribution : You must give appropriate credit, provide a link to the
+                  license, and indicate if changes were made. You may do so in
+                  any reasonable manner, but not in any way that suggests the
+                  licensor endorses you or your use.
+
+Full license text:
+https://creativecommons.org/licenses/by/4.0/legalcode
+
+--------------------------------------------------------------------------------
+EXCLUSION - THIRD-PARTY CONTENT
+
+The license above does NOT apply to the audio and video content referenced by
+the manifest files in this repository. The manifest files contain only links,
+timestamps, and metadata. Copyright in the referenced video content remains
+with the respective channel owners. This repository does not redistribute any
+of that audio or video content.
+
+Users who reconstruct the audio data from the manifests are responsible for
+complying with the YouTube Terms of Service and applicable copyright law.
