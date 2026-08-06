@@ -1,0 +1,6 @@
+sumber,satuan,total_kata,kata_indonesia,kata_alih_kode,persen_alih_kode,tipe_kata
+Audio nyata + pseudo-label,4416 segmen,295852,200115,95737,32.36,16469
+Korpus teks 20K,20219 kalimat,305635,201165,104470,34.18,15313
+Korpus teks 10K,10000 kalimat,69362,44680,24682,35.58,9040
+Korpus teks 3.9K,3929 kalimat,44919,27375,17544,39.06,2080
+Data uji (anotasi manual),98 ujaran,5625,3633,1992,35.41,1331
